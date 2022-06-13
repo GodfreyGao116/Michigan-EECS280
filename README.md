@@ -1,6 +1,6 @@
 # EECS-280
 
-This repo contains labs and projects of EECS280 Programming and Introductory Data Structures.
+This repo contains five projects of EECS280 Programming and Introductory Data Structures.
 
 # About Honor Code
 According to the UM Academic Rules, Rights and Responsibilities,
